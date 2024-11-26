@@ -1,0 +1,155 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "rojuuteamo",
+      "email": "alandrades03@duocuc.cl",
+      "rut": "21487568",
+      "dv": "5",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "email": "bjeria05@duocuc.cl",
+      "password": "benja123",
+      "rut": "21679532",
+      "dv": "k",
+      "isactive": true
+    },
+    {
+      "id": "3",
+      "username": "usuario3",
+      "email": "rickmilos06@duocuc.cl",
+      "password": "rick123",
+      "rut": "20795693",
+      "dv": "3",
+      "isactive": true
+    },
+    {
+      "id": "4",
+      "username": "usuario4",
+      "email": "separdo00@duocuc.cl",
+      "password": "separdoa00",
+      "rut": "20462789",
+      "dv": "9",
+      "isactive": true
+    },
+    {
+      "id": "5151",
+      "username": "giansano",
+      "email": "profegian2003@profeduoc.cl",
+      "password": "giancito",
+      "isactive": true,
+      "rut": "23219735",
+      "dv": "8"
+    },
+    {
+      "id": "d628",
+      "username": "seba12",
+      "email": "seba12@gmail.com",
+      "password": "seba12",
+      "isactive": true,
+      "rut": "21562426",
+      "dv": "9"
+    }
+  ],
+  "ramos": [
+    {
+      "id": "MAPGY4121",
+      "asignatura": "Aplicaciones Moviles",
+      "profesor": "Viviana Poblete",
+      "seccion": "007D",
+      "fecha": "21/10/24",
+      "descripcion": "En este ramo aprenderas lo basico sobre el diseño y creacion de aplicaciones para dispositivos moviles"
+    },
+    {
+      "id": "MAINI5111",
+      "asignatura": "Ingles Intermedio",
+      "profesor": "Marcia Almeyda",
+      "seccion": "007D",
+      "fecha": "24/10/24",
+      "descripcion": "En este ramo estara cursando la estapa de ingles intermedio donde aprendas a perfeccionar tu ingles para empezar a implementarlo en tu dia a dia"
+    },
+    {
+      "id": "MAT4140",
+      "asignatura": "Estadistica Descriptiva",
+      "profesor": "Carla Caceres",
+      "seccion": "010D",
+      "fecha": "22/10/24",
+      "descripcion": "En este ramo aprenderas conceptos basicos y complejos sobre el manejo de estadisticas usando bases de datos y mejorar la capacidad de comprender porcentajes"
+    },
+    {
+      "id": "MACSY4111",
+      "asignatura": "Calidad de Software",
+      "profesor": "Francisco Valdivieso",
+      "seccion": "009D",
+      "fecha": "23/10/24",
+      "descripcion": "En este ramo aprenderás a aplicar principios y técnicas para garantizar la calidad del software, incluyendo métricas y pruebas. Explorarás estrategias de prueba para detectar y corregir errores en el desarrollo. El enfoque está en crear aplicaciones confiables que cumplan con los estándares de calidad."
+    }
+  ],
+  "justificaciones": [
+    {
+      "id": "y74p",
+      "asignatura": "Aplicaciones Moviles",
+      "profesor": "Viviana Poblete",
+      "fecha": "21/10/24",
+      "descripcion": "Estimada profesora hoy no podre ir a clases debido a que me encuentro en el hospital, pronto le hare llegar el justificativo, saludos.",
+      "userjust": "usuario1",
+      "comentario": ""
+    },
+    {
+      "id": "3pw2",
+      "asignatura": "Ingles Intermedio",
+      "profesor": "Marcia Almeyda",
+      "fecha": "24/10/24",
+      "descripcion": "Estimada profesora no prode asistir, porque tuve que llevar a mi perrita de urgencia a la veterinaria, saludos cordiales.",
+      "userjust": "usuario2",
+      "comentario": ""
+    }
+  ],
+  "asistencia": [
+    {
+      "id": "MAPGY4121",
+      "asignatura": "Aplicaciones Moviles",
+      "profesor": "Viviana Poblete",
+      "fecha": "21/10/24",
+      "email": "alandrades03@duocuc.cl",
+      "userasist": "usuario1"
+    },
+    {
+      "id": "MAINI5111",
+      "asignatura": "Ingles Intermedio",
+      "profesor": "Marcia Almeyda",
+      "fecha": "24/10/24",
+      "email": "bjeria05@duocuc.cl",
+      "userasist": "usuario2"
+    },
+    {
+      "id": "MACSY4111",
+      "asignatura": "Calidad de Software",
+      "profesor": "Francisco Valdivieso",
+      "fecha": "23 /10/24",
+      "email": "rickmilos06@duocuc.cl",
+      "userasist": "usuario3"
+    },
+    {
+      "id": "fd0f",
+      "email": "alandrades03@duocuc.cl",
+      "userasist": "usuario1",
+      "fecha": "24/10/24",
+      "profesor": "Marcia Almeyda"
+    },
+    {
+      "id": "e9ab",
+      "email": "alandrades03@duocuc.cl",
+      "userasist": "usuario1",
+      "fecha": "24/10/24",
+      "profesor": "Marcia Almeyda"
+    }
+  ],
+  "qr": [
+    
+  ]
+}
