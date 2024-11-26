@@ -1,6 +1,7 @@
 const jsonServer = require("json-server");
 const server = jsonServer.create();
-const router = jsonServer.defaults();
+const router = jsonServer.router("lista.json");
+const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 10000;
 
 server.use(middlewares);
